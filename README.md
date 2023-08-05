@@ -4,16 +4,11 @@
 
 ### Simple skeleton loading in SwiftUI
 
+### What is skeleton loading? 
 
+### Why is this beneficial? 
 
-#### What is skeleton loading? 
-
-
-
-#### Why is this beneficial? 
-
-
-#### How do I use this? 
+### How do I use this? 
 
 ```
 import FunnyBones 
